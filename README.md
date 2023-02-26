@@ -1,2 +1,4 @@
 # erc721-upgradeable-tutorial
-This repository is created for my tutorial video published on YouTube
+ERC-721 Upgradeable Smart Contract
+
+Tutorial video: https://www.youtube.com/watch?v=uSPizER0SM0
